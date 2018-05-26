@@ -1,0 +1,11 @@
+/home/vondrus/test/big23.bin, /home/vondrus/test/big21.bin
+/home/vondrus/test/big23.bin, /home/vondrus/test/big25.bin
+/home/vondrus/test/big23.bin, /home/vondrus/test/big24.bin
+/home/vondrus/test/big23.bin, /home/vondrus/test/big22.bin
+/home/vondrus/test/big22.bin, /home/vondrus/test/big24.bin
+/home/vondrus/test/big22.bin, /home/vondrus/test/big21.bin
+/home/vondrus/test/big22.bin, /home/vondrus/test/big25.bin
+/home/vondrus/test/A, /home/vondrus/test/C
+/home/vondrus/test/big24.bin, /home/vondrus/test/big21.bin
+/home/vondrus/test/big24.bin, /home/vondrus/test/big25.bin
+/home/vondrus/test/big21.bin, /home/vondrus/test/big25.bin

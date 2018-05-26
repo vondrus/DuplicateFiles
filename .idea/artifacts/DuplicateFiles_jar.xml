@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DuplicateFiles:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DuplicateFiles_jar</output-path>
+    <root id="archive" name="DuplicateFiles.jar">
+      <element id="module-output" name="DuplicateFiles" />
+    </root>
+  </artifact>
+</component>
